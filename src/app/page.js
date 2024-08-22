@@ -6,6 +6,7 @@ import HomeAbout from "@/Components/HomeAbout";
 import ImageGallery from "@/Components/ImageGallery";
 
 import Map from "@/Components/Map";
+// 
 import Progress from "@/Components/Progress";
 import Service from "@/Components/Service";
 
